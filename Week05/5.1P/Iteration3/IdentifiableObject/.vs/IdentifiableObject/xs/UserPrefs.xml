@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{38D6DCD4-BE7C-4157-A4CA-1ECAC55D98B0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IdentifiableObjectTest/BagUnitTest.cs">
+    <Files>
+      <File FileName="IdentifiableObjectTest/ItemUnitTest.cs" Line="15" Column="78" />
+      <File FileName="IdentifiableObject/GameObject.cs" Line="32" Column="40" />
+      <File FileName="IdentifiableObject/Item.cs" Line="1" Column="1" />
+      <File FileName="IdentifiableObject/Object.cs" Line="25" Column="10" />
+      <File FileName="IdentifiableObject/Bag.cs" Line="22" Column="1" />
+      <File FileName="IdentifiableObjectTest/InventoryUnitTest.cs" Line="71" Column="78" />
+      <File FileName="IdentifiableObjectTest/BagUnitTest.cs" Line="60" Column="38" />
+      <File FileName="IdentifiableObject/Inventory.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IdentifiableObject" expanded="True">
+            <Node name="IdentifiableObject" expanded="True" />
+            <Node name="IdentifiableObjectTest" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="IdentifiableObject" expanded="True" selected="True">
+            <Node name="IdentifiableObjectTest" expanded="True">
+              <Node name="Iteration" expanded="True">
+                <Node name="Bag_Unit_Test" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.IdentifiableObject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

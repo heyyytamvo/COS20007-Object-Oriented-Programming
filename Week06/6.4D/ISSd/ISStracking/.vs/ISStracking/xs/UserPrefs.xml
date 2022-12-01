@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{CCA00301-6E1D-4AFF-899D-08D2B60BDAF9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ISStracking/MainProgram.cs">
+    <Files>
+      <File FileName="ISStracking/Application_Object.cs" Line="21" Column="14" />
+      <File FileName="ISStracking/Astronaut.cs" Line="15" Column="10" />
+      <File FileName="ISStracking/Craft.cs" Line="37" Column="39" />
+      <File FileName="ISStracking/CraftCommand.cs" Line="7" Column="40" />
+      <File FileName="ISStracking/Object_Management.cs" Line="19" Column="19" />
+      <File FileName="ISStracking/AstronautCommand.cs" Line="4" Column="41" />
+      <File FileName="ISStracking/MainProgram.cs" Line="109" Column="101" />
+      <File FileName="ISStracking/Command.cs" Line="4" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ISStracking" expanded="True">
+            <Node name="ISStracking" expanded="True">
+              <Node name="CraftCommand.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ISStracking PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,57 @@
+﻿<Properties StartupConfiguration="{38D6DCD4-BE7C-4157-A4CA-1ECAC55D98B0}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.IdentifiableObject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="IdentifiableObject/Program.cs">
+    <Files>
+      <File FileName="IdentifiableObject/GameObject.cs" Line="40" Column="14" />
+      <File FileName="IdentifiableObject/IdentifiableObject.cs" Line="29" Column="16" />
+      <File FileName="IdentifiableObject/IHaveInventory.cs" Line="18" Column="1" />
+      <File FileName="IdentifiableObject/Path.cs" Line="10" Column="10" />
+      <File FileName="IdentifiableObject/LookCommand.cs" Line="37" Column="54" />
+      <File FileName="IdentifiableObject/MoveCommand.cs" Line="11" Column="10" />
+      <File FileName="IdentifiableObject/Player.cs" Line="40" Column="4" />
+      <File FileName="IdentifiableObjectTest/PathUnitTest.cs" Line="1" Column="1" />
+      <File FileName="IdentifiableObjectTest/InventoryUnitTest.cs" Line="6" Column="5" />
+      <File FileName="IdentifiableObjectTest/BagUnitTest.cs" Line="1" Column="1" />
+      <File FileName="IdentifiableObjectTest/MoveUnitTest.cs" Line="49" Column="47" />
+      <File FileName="IdentifiableObject/CommandProcessor.cs" Line="24" Column="35" />
+      <File FileName="IdentifiableObjectTest/LookAtUnitTest.cs" Line="32" Column="149" />
+      <File FileName="IdentifiableObject/Program.cs" Line="23" Column="48" />
+      <File FileName="IdentifiableObject/Location.cs" Line="61" Column="74" />
+      <File FileName="IdentifiableObjectTest/CommandProcessorUnitTest.cs" Line="77" Column="38" />
+      <File FileName="IdentifiableObject/Inventory.cs" Line="1" Column="1" />
+      <File FileName="IdentifiableObject/Item.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IdentifiableObject" expanded="True">
+            <Node name="IdentifiableObject" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="IdentifiableObjectTest" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="IdentifiableObject" expanded="True">
+            <Node name="IdentifiableObjectTest" expanded="True">
+              <Node name="Iteration" expanded="True">
+                <Node name="CommandProcessorUnitTest" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/tamvo/Desktop/COS20007/Week08/Question1/Question/Question/bin/Debug/net6.0/Question
+/Users/tamvo/Desktop/COS20007/Week08/Question1/Question/Question/bin/Debug/net6.0/Question.deps.json
+/Users/tamvo/Desktop/COS20007/Week08/Question1/Question/Question/bin/Debug/net6.0/Question.runtimeconfig.json
+/Users/tamvo/Desktop/COS20007/Week08/Question1/Question/Question/bin/Debug/net6.0/Question.dll
+/Users/tamvo/Desktop/COS20007/Week08/Question1/Question/Question/bin/Debug/net6.0/Question.pdb
+/Users/tamvo/Desktop/COS20007/Week08/Question1/Question/Question/obj/Debug/net6.0/Question.csproj.AssemblyReference.cache
+/Users/tamvo/Desktop/COS20007/Week08/Question1/Question/Question/obj/Debug/net6.0/Question.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tamvo/Desktop/COS20007/Week08/Question1/Question/Question/obj/Debug/net6.0/Question.AssemblyInfoInputs.cache
+/Users/tamvo/Desktop/COS20007/Week08/Question1/Question/Question/obj/Debug/net6.0/Question.AssemblyInfo.cs
+/Users/tamvo/Desktop/COS20007/Week08/Question1/Question/Question/obj/Debug/net6.0/Question.csproj.CoreCompileInputs.cache
+/Users/tamvo/Desktop/COS20007/Week08/Question1/Question/Question/obj/Debug/net6.0/Question.dll
+/Users/tamvo/Desktop/COS20007/Week08/Question1/Question/Question/obj/Debug/net6.0/refint/Question.dll
+/Users/tamvo/Desktop/COS20007/Week08/Question1/Question/Question/obj/Debug/net6.0/Question.pdb
+/Users/tamvo/Desktop/COS20007/Week08/Question1/Question/Question/obj/Debug/net6.0/Question.genruntimeconfig.cache
+/Users/tamvo/Desktop/COS20007/Week08/Question1/Question/Question/obj/Debug/net6.0/ref/Question.dll

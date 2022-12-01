@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{F483C4A7-0466-4917-814A-1C88BD4283A6}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Question PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Question/Book.cs">
+    <Files>
+      <File FileName="Question/Program.cs" Line="29" Column="10" />
+      <File FileName="Question/Book.cs" Line="34" Column="1" />
+      <File FileName="Question/Game.cs" Line="33" Column="1" />
+      <File FileName="Question/LibraryResource.cs" Line="14" Column="1" />
+      <File FileName="Question/Program.cs" Line="18" Column="51" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Question" expanded="True">
+            <Node name="Question" expanded="True">
+              <Node name="Book.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

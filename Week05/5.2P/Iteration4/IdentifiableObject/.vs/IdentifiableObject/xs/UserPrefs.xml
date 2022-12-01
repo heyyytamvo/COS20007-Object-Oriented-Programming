@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{38D6DCD4-BE7C-4157-A4CA-1ECAC55D98B0}|Default">
+  <MonoDevelop.Ide.ItemProperties.IdentifiableObject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="IdentifiableObject/LookCommand.cs">
+    <Files>
+      <File FileName="IdentifiableObject/LookCommand.cs" Line="19" Column="59" />
+      <File FileName="IdentifiableObjectTest/LookAtUnitTest.cs" Line="92" Column="45" />
+      <File FileName="IdentifiableObject/GameObject.cs" Line="26" Column="10" />
+      <File FileName="IdentifiableObject/Player.cs" Line="1" Column="1" />
+      <File FileName="IdentifiableObject/Inventory.cs" Line="8" Column="24" />
+      <File FileName="IdentifiableObject/Bag.cs" Line="5" Column="8" />
+      <File FileName="IdentifiableObject/Command.cs" Line="18" Column="1" />
+      <File FileName="IdentifiableObject/Object.cs" Line="1" Column="1" />
+      <File FileName="IdentifiableObject/Item.cs" Line="8" Column="32" />
+      <File FileName="IdentifiableObject/IHaveInventory.cs" Line="1" Column="1" />
+      <File FileName="IdentifiableObjectTest/InventoryUnitTest.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IdentifiableObject" expanded="True">
+            <Node name="IdentifiableObject" expanded="True" />
+            <Node name="IdentifiableObjectTest" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="IdentifiableObject" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>

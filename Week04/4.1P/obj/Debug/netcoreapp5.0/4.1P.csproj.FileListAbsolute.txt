@@ -1,0 +1,16 @@
+/Users/tamvo/Desktop/COS20007/Week04/4.1P/obj/Debug/netcoreapp5.0/4.1P.csproj.AssemblyReference.cache
+/Users/tamvo/Desktop/COS20007/Week04/4.1P/obj/Debug/netcoreapp5.0/4.1P.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tamvo/Desktop/COS20007/Week04/4.1P/obj/Debug/netcoreapp5.0/4.1P.AssemblyInfoInputs.cache
+/Users/tamvo/Desktop/COS20007/Week04/4.1P/obj/Debug/netcoreapp5.0/4.1P.AssemblyInfo.cs
+/Users/tamvo/Desktop/COS20007/Week04/4.1P/obj/Debug/netcoreapp5.0/4.1P.csproj.CoreCompileInputs.cache
+/Users/tamvo/Desktop/COS20007/Week04/4.1P/bin/Debug/netcoreapp5.0/4.1P
+/Users/tamvo/Desktop/COS20007/Week04/4.1P/bin/Debug/netcoreapp5.0/4.1P.deps.json
+/Users/tamvo/Desktop/COS20007/Week04/4.1P/bin/Debug/netcoreapp5.0/4.1P.runtimeconfig.json
+/Users/tamvo/Desktop/COS20007/Week04/4.1P/bin/Debug/netcoreapp5.0/4.1P.runtimeconfig.dev.json
+/Users/tamvo/Desktop/COS20007/Week04/4.1P/bin/Debug/netcoreapp5.0/4.1P.dll
+/Users/tamvo/Desktop/COS20007/Week04/4.1P/bin/Debug/netcoreapp5.0/4.1P.pdb
+/Users/tamvo/Desktop/COS20007/Week04/4.1P/obj/Debug/netcoreapp5.0/4.1P.dll
+/Users/tamvo/Desktop/COS20007/Week04/4.1P/obj/Debug/netcoreapp5.0/refint/4.1P.dll
+/Users/tamvo/Desktop/COS20007/Week04/4.1P/obj/Debug/netcoreapp5.0/4.1P.pdb
+/Users/tamvo/Desktop/COS20007/Week04/4.1P/obj/Debug/netcoreapp5.0/4.1P.genruntimeconfig.cache
+/Users/tamvo/Desktop/COS20007/Week04/4.1P/obj/Debug/netcoreapp5.0/ref/4.1P.dll

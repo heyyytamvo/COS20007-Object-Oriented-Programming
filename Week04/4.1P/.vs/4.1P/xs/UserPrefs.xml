@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{BE921992-9419-4222-A4BA-85BD546DE5B3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyCircle.cs">
+    <Files>
+      <File FileName="Drawing.cs" Line="87" Column="53" />
+      <File FileName="Program.cs" Line="127" Column="59" />
+      <File FileName="MyLine.cs" Line="53" Column="52" />
+      <File FileName="MyRectangle.cs" Line="53" Column="5" />
+      <File FileName="MyCircle.cs" Line="48" Column="19" />
+      <File FileName="Shape.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="4.1P" expanded="True">
+            <Node name="4.1P" expanded="True">
+              <Node name="MyCircle.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.4.1P PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
